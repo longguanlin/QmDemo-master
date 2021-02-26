@@ -1,2 +1,1 @@
-# QmDemo-master
-学生信息管理系统-struts2
+# Struts2大作业
